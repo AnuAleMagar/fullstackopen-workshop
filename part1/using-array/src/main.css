@@ -1,0 +1,15 @@
+.maindiv{
+    height: 400px;
+    width: 25%;
+    margin: auto;
+    align-items: center;
+    padding: 40px;
+}
+
+h1{
+    color: red;
+}
+.para{
+    display: block;
+    padding: 8px;
+}
