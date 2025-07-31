@@ -1,0 +1,17 @@
+.maindiv,h1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: auto;
+     margin-top: 15px;
+    gap: 5px;
+    width: 50%;
+}
+h1{
+    margin-top: 50px;
+}
+button{
+    border-radius: 8px;
+}
